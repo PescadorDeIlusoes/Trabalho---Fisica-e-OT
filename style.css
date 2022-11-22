@@ -53,3 +53,31 @@ img{
     display: inline-table;
     
 }
+.asd {
+    border-radius: 8px;
+    display:block;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;}
+.DC {
+    border-radius: 8px;
+    display: block;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.AC { border-radius: 8px;
+    display: block;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;}
+.CC { border-radius: 8px;
+    display: block;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;}
+.ABC { border-radius: 8px;
+    display: block;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;}    
